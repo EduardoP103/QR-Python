@@ -1,4 +1,4 @@
-### SE NECESITA DESCARGAR UNA LIBRERIA:
+### YOU NEED TO DOWNLOAD A LIBRARY pyqrcode:
 ```
 pip install pyqrcode
 ```
